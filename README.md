@@ -1,0 +1,1 @@
+# ruby-super-inheritance--seiji-test-batch-001
